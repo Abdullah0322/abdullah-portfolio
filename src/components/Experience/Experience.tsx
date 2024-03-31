@@ -4,7 +4,7 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
-import resumeBasicInfo from "@/constants/data/res_primaryLanguage.json";
+import resumeBasicInfo from "../../../public/res_primaryLanguage.json";
 
 export const Experience = () => {
   return (

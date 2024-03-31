@@ -1,5 +1,5 @@
-import resumeBasicInfo from "@/constants/data/res_primaryLanguage.json";
-import sharedSkills from "@/constants/data/portfolio_shared_data.json";
+import resumeBasicInfo from "../../../public/res_primaryLanguage.json";
+import sharedSkills from "../../../public/portfolio_shared_data.json";
 
 export const Skills = () => {
   return (

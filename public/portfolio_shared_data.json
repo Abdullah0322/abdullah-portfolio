@@ -1,0 +1,128 @@
+{
+  "basic_info": {
+    "name": "Abdullah Naveed",
+    "title": "Full-Stack Developer",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Abdullah0322",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abdullah_malik_99",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "images/myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "90"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "90"
+      },
+      {
+        "name": "Next.js",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "80"
+      },
+      {
+        "name": "NestJS",
+        "class": "devicon-nestjs-plain",
+        "level": "70"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "level": "75"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "70"
+      },
+      {
+        "name": "MySQL",
+        "class": "devicon-mysql-plain",
+        "level": "65"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "70"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "70"
+      },
+      {
+        "name": "Amazon EC2",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "60"
+      },
+      {
+        "name": "S3 Bucket",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "60"
+      },
+      {
+        "name": "GitHub",
+        "class": "devicon-github-original",
+        "level": "85"
+      },
+      {
+        "name": "GitLab",
+        "class": "devicon-gitlab-plain",
+        "level": "75"
+      },
+      {
+        "name": "Bitbucket",
+        "class": "devicon-bitbucket-original",
+        "level": "65"
+      },
+      {
+        "name": "Vercel",
+        "class": "devicon-vercel-plain",
+        "level": "70"
+      },
+      {
+        "name": "Heroku",
+        "class": "devicon-heroku-original",
+        "level": "65"
+      }
+    ]
+  }
+}

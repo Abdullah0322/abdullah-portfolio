@@ -1,11 +1,10 @@
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import nestIcon from "@iconify/icons-logos/nestjs";
 
 import postgresIcon from "@iconify/icons-logos/postgresql";
-import resumeBasicInfo from "@/constants/data/res_primaryLanguage.json";
-import portFolioData from "@/constants/data/portfolio_shared_data.json";
+import resumeBasicInfo from "../../../public/res_primaryLanguage.json";
+import portFolioData from "../../../public/portfolio_shared_data.json";
 
 export const About = () => {
   return (

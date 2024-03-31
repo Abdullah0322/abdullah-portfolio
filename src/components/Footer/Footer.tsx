@@ -1,4 +1,4 @@
-import portFolioData from "@/constants/data/portfolio_shared_data.json";
+import portFolioData from "../../../public/portfolio_shared_data.json";
 
 export const Footer = () => {
   return (

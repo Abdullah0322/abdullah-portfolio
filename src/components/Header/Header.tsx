@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Switch from "react-switch";
-import sharedData from "@/constants/data/portfolio_shared_data.json";
+import sharedData from "../../../public/portfolio_shared_data.json";
 import { motion, AnimatePresence } from "framer-motion";
 
 const TypingEffect = ({ text }: { text: string }) => {

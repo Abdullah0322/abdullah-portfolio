@@ -1,5 +1,5 @@
 import { useState } from "react";
-import resumeBasicInfo from "@/constants/data/res_primaryLanguage.json";
+import resumeBasicInfo from "../../../public/res_primaryLanguage.json";
 import { ProjectDetailsModal } from "../ProjectDetailModal";
 import { TProject } from "@/types";
 import { Badge } from "react-bootstrap";

@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Abdullah Naveed, a Software Engineer with a solid 4-years track record of delivering cutting-edge solutions in the world of web development. I'm excited to embark on new challenges, tackle exciting projects, and bring your ideas to life. If you're ready to take your web development journey to the next level, feel free to reach out. Together, we can turn your vision into reality.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Plexxis",
+      "startDate": "2022",
+      "status": "Under Construction",
+      "description": "I actively contributed to Plexxis, a dynamic construction management platform offering diverse solutions to industry challenges. One of my key projects involved the development of a robust ToDo system, built with React JS, Typescript ,Nest JS, and PostgreSQL. This system featured a hierarchical structure with multiple folders containing projects, enabling the creation and assignment of tasks to various users. Additionally, my involvement extended to the Financial Outlook service, where I played a crucial role in crafting profit and loss statements, as well as cash flow balance sheets for companies. These experiences underscore my versatility in working across multiple platforms and my commitment to delivering effective solutions in construction management and financial analysis.",
+      "images": [
+        "images/portfolio/Plexxis/5.webp",
+        "images/portfolio/Plexxis/1.webp",
+        "images/portfolio/Plexxis/2.webp",
+        "images/portfolio/Plexxis/3.webp",
+        "images/portfolio/Plexxis/4.webp"
+      ],
+      "url": "https://plexxis.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest JS"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain"
+        }
+      ]
+    },
+
+    {
+      "title": "LOAM",
+      "status": "Under Construction",
+      "startDate": "2024",
+      "description": "I took on a central role in crafting LOAM, an innovative incentive database platform distinguished by its ability to streamline the aggregation and analysis of incentive data through advanced data scraping techniques. Developed using React JS for the front-end and .NET for the back-end, LOAM stands out for its robustness and efficiency in handling complex data operations. The platform is designed to enable users to seamlessly access a vast database of incentives, making use of sophisticated search and filter mechanisms to pinpoint precise information. The integration of automated data scraping ensures that the database is continuously updated with the latest information, thereby maintaining its relevance and utility.",
+      "images": [
+        "images/portfolio/LOAM/1.webp",
+        "images/portfolio/LOAM/2.webp"
+      ],
+      "url": "https://dev.loamclimate.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        }
+      ]
+    },
+
+    {
+      "title": "Options Geek",
+      "startDate": "2022",
+      "description": "I actively contributed to the development of Options Geek a cutting-edge platform built with React JS for the frontend, Node JS for the backend, and Firebase for seamless integration. Serving as a user-friendly tool, Options Geek is designed to guide individuals on effectively buying options and stocks within the stock market. My role involved implementing robust features, ensuring an intuitive and responsive interface, and incorporating automated data refresh using cron jobs for daily updates. This experience not only showcased my proficiency in React JS and Node JS Firebase but also highlighted my dedication to creating impactful solutions in the realm of financial education.",
+      "images": [
+        "images/portfolio/optionsgeek/1.webp",
+        "images/portfolio/optionsgeek/2.webp"
+      ],
+      "url": "https://optionsgeek.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express JS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+
+    {
+      "title": "Unilabel Sourcing",
+      "startDate": "2023",
+      "description": "I played a pivotal role in the development of Unilabel Sourcing, a dynamic textile website that facilitates seamless interactions between users and a comprehensive admin panel. Leveraging React JS, Nest JS, and PostgreSQL, the platform boasts an extensive range of textile products. Users can easily submit inquiries, triggering automated email notifications to the admin panel. Within the admin interface, I implemented functionalities to effortlessly manage and expand the platform, including the addition of multiple products, user management, and order tracking. This project not only showcased my proficiency in React JS, Nest JS, and PostgreSQL but also highlighted my ability to create a user-friendly and scalable solution for the textile industry",
+      "images": [
+        "images/portfolio/unilabel/1.webp",
+        "images/portfolio/unilabel/2.webp",
+        "images/portfolio/unilabel/3.webp"
+      ],
+      "url": "https://unilabelsourcing.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "85"
+        },
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest JS"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain"
+        }
+      ]
+    },
+    {
+      "title": "Creditz",
+      "startDate": "2021",
+      "description": "I worked on creating a social app just for musicians, making it easy for them to connect and share with each other. We built it using Firebase and React, keeping things simple and smooth for users. This app is a fun place for musicians to meet, collaborate, and grow their music together. My part in this project really highlighted my passion for building apps that bring people together.",
+      "images": [
+        "images/portfolio/Creditz/1.webp",
+        "images/portfolio/Creditz/2.webp"
+      ],
+      "url": "https://alpha-creditzmusic.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Bukit",
+      "startDate": "2022",
+      "description": "I helped build Bukit, the first platform to let people easily find and book all kinds of services, like haircuts or golf lessons, without waiting or making phone calls. We used React JS and TypeScript to make sure Bukit works smoothly for everyone. It's a simple way for people to find services and for service providers to find customers. My work on Bukit showed how much I enjoy making things that make life easier for people.",
+      "images": [
+        "images/portfolio/Bukit/1.webp",
+        "images/portfolio/Bukit/2.webp"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React JS"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Gigalabs",
+      "title": "Full-Stack Developer",
+      "years": "07.2021 - present",
+      "mainTech": ["React JS", "Nest JS", "PostgreSQL"],
+      "technologies": [
+        "HTML 5",
+        "CSS",
+        "JAVASCRIPT",
+        "TYPESCRIPT",
+        "REACT JS",
+        "NEXT JS",
+        "NEST JS",
+        "POSTGRESQL",
+        "MONGO DB",
+        "FIREBASE",
+        "AMAZON EC2",
+        "HEROKU",
+        "VERCEL"
+      ]
+    },
+    {
+      "company": "Gigalabs",
+      "title": "Intern",
+      "years": "02.2021 - 07-2021",
+      "mainTech": ["React JS", "Nest JS", "PostgreSQL"],
+      "technologies": [
+        "HTML 5",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT JS",
+        "HEROKU",
+        "MONGO DB"
+      ]
+    },
+
+    {
+      "company": "WeAddHype",
+      "title": "Intern",
+      "years": "02.2020 - 02.2021",
+      "mainTech": ["React JS"],
+      "technologies": ["REACT JS"]
+    }
+  ]
+}
